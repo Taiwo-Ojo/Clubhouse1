@@ -1,3 +1,8 @@
+#requires update so that only attachments added since {specified date or day} are called or downloaded 
+#perhaps we can use of these attributes; 
+#   "created_at": "2018-10-11T16:16:30Z",
+#   "updated_at": "2018-10-11T16:16:30Z",
+
 import os
 import re
 import csv
